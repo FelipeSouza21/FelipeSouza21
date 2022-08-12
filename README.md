@@ -96,6 +96,8 @@
 
 <br/>  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza21&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+
 <!--
 **FelipeSouza21/FelipeSouza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
