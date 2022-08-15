@@ -92,11 +92,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FelipeSouza21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza21&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=FelipeSouza21&show_icons=true&hide_border=true&count_private=true&theme=jolly)
+<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza21&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
 
 <!--
 **FelipeSouza21/FelipeSouza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
